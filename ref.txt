@@ -1,0 +1,3 @@
+https://docs.sqlalchemy.org/en/20/changelog/whatsnew_20.html#whatsnew-20-orm-declarative-typing
+https://docs.sqlalchemy.org/en/20/changelog/migration_20.html#migration-20-query-usage
+https://flask-httpauth.readthedocs.io/en/latest/
